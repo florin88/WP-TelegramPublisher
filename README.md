@@ -11,6 +11,8 @@ In modo molto semplice, ti permette inviare in modo automatico i contenuti verso
 
 Hai la possibilità di personalizzare il mesaggio che viene pubblicato all'intrerno del tuo canale o del tuo gruppo realizzando un piccolo template che seguiorà sempre le stesse indentiche impostazioni.
 
+- Leggi qui l'articolo dedicato > [Guida all'installazione e utilizzo](https://2088.it/wp-telegram-publisher-pubblica-su-telegram-in-modo-automatico/)
+
 
 # 💰 Donazioni
 - **[Ko-Fi](https://ko-fi.com/insidetelegramproject)**
